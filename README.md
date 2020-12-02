@@ -2,8 +2,6 @@
 
 **Goals**:Flutter application using bloc and call API
 
-##API
-
 ## Features to develop
 Use API Sport and BloC pattern
 
